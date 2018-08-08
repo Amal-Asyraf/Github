@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalQuiz</string>
+    <string-array name="website">
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+</resources>
